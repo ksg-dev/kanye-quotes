@@ -1,0 +1,1 @@
+creating a kanye quote emoji using Kanye quote API
